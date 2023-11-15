@@ -1,4 +1,4 @@
-- 👋 Opa, bom? Eume chamo Allan Gabriel.
+- 👋 Opa, bom? Eu me chamo Allan Gabriel.
 - 🌱 Atualmente estou aprendendo sobre a o Front-End, estudando sobre Desenvolvimento Web; por enquanto meu conhhecimento é HTML5, CSS3, Bootstrap, JS e um pouco sobre Python.
 - 📫 Você pode me encontar no Instagram: me_allangabriel
 
